@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\vs projects\\testing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C76B0B37-96F2-4DB3-ADD5-1ABA7F4D23B1}|testing\\testing.vcxproj|D:\\vs projects\\testing\\testing\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{C76B0B37-96F2-4DB3-ADD5-1ABA7F4D23B1}|testing\\testing.vcxproj|solutionrelative:testing\\Source.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Documents\\BSCS23034-Chess-Phase-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user\\Desktop\\BSCS23034-Chess-Phase-3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76B0B37-96F2-4DB3-ADD5-1ABA7F4D23B1}|testing\\testing.vcxproj|D:\\vs projects\\testing\\testing\\save.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C76B0B37-96F2-4DB3-ADD5-1ABA7F4D23B1}|testing\\testing.vcxproj|solutionrelative:testing\\save.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76B0B37-96F2-4DB3-ADD5-1ABA7F4D23B1}|testing\\testing.vcxproj|D:\\vs projects\\testing\\testing\\saveread.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C76B0B37-96F2-4DB3-ADD5-1ABA7F4D23B1}|testing\\testing.vcxproj|solutionrelative:testing\\saveread.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C76B0B37-96F2-4DB3-ADD5-1ABA7F4D23B1}|testing\\testing.vcxproj|D:\\vs projects\\testing\\testing\\exitsave.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{C76B0B37-96F2-4DB3-ADD5-1ABA7F4D23B1}|testing\\testing.vcxproj|solutionrelative:testing\\exitsave.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Source.cpp",
+              "DocumentMoniker": "D:\\vs projects\\testing\\testing\\Source.cpp",
+              "RelativeDocumentMoniker": "testing\\Source.cpp",
+              "ToolTip": "D:\\vs projects\\testing\\testing\\Source.cpp",
+              "RelativeToolTip": "testing\\Source.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-02T03:02:04.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BSCS23034-Chess-Phase-3.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Documents\\BSCS23034-Chess-Phase-3.cpp",
+              "ToolTip": "C:\\Users\\user\\Documents\\BSCS23034-Chess-Phase-3.cpp",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-01-01T12:10:45.963Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "exitsave.txt",
+              "DocumentMoniker": "D:\\vs projects\\testing\\testing\\exitsave.txt",
+              "RelativeDocumentMoniker": "testing\\exitsave.txt",
+              "ToolTip": "D:\\vs projects\\testing\\testing\\exitsave.txt",
+              "RelativeToolTip": "testing\\exitsave.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2023-12-29T18:52:48.971Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "save.txt",
+              "DocumentMoniker": "D:\\vs projects\\testing\\testing\\save.txt",
+              "RelativeDocumentMoniker": "testing\\save.txt",
+              "ToolTip": "D:\\vs projects\\testing\\testing\\save.txt",
+              "RelativeToolTip": "testing\\save.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2023-12-29T18:52:18.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "BSCS23034-Chess-Phase-3.cpp",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\BSCS23034-Chess-Phase-3.cpp",
+              "ToolTip": "C:\\Users\\user\\Desktop\\BSCS23034-Chess-Phase-3.cpp",
+              "ViewState": "AQIAAKkFAAAAAAAAAAAcwMEFAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2023-12-26T13:55:22.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "saveread.txt",
+              "DocumentMoniker": "D:\\vs projects\\testing\\testing\\saveread.txt",
+              "RelativeDocumentMoniker": "testing\\saveread.txt",
+              "ToolTip": "D:\\vs projects\\testing\\testing\\saveread.txt",
+              "RelativeToolTip": "testing\\saveread.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2023-12-29T19:07:08.958Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
