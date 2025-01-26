@@ -32,6 +32,8 @@ This project provides a console-based Chess game with all the standard rules of 
    ```
 
 ## Usage
+- Please make sure that you set your heigth and width of the console same.
+- you can play with console properties to see what is suitable for the visuals of this game.
 - The game starts with a console animation.
 - Players can click on the console to select and move pieces.
 - Special buttons for undo, redo, and saving the game are provided.
